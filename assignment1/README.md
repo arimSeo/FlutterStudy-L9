@@ -1,16 +1,12 @@
-# assignment1
+# 🎯WEEK 1 
 
-A new Flutter project.
+### <주제>
+<img src="https://user-images.githubusercontent.com/64953591/128670397-ad9d4af4-2d63-4be6-9c78-9d127f0a0a97.png" width="20%" height="60%">
+위의 예시 UI 보고 똑같이 만들기!
 
-## Getting Started
+### <사용해볼것>   
+- Appbar, Column, DropdownButton, RadioButton, TextField, ElevatedButton 위젯 필수로 사용하기
+- 색상이나 글자는 원하는대로 입력
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
