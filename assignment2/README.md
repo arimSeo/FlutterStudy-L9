@@ -1,7 +1,7 @@
 # 🎯WEEK2~3
 
 ### <주제>
-
+<img src="https://user-images.githubusercontent.com/64953591/130169231-43d418a0-fe06-49fe-aded-b6c9abb16786.png" width="200" height="400">
 위의 예시 UI와 똑같이 만들기!  
 (기간2주)  
 
